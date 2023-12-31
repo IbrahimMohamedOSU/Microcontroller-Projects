@@ -3,6 +3,7 @@ A collection of my microcontroller-based projects. Completed using a combination
 These programs were designed for and tested on a MSP430FR6989 microcontroller. 
 
 Project Descriptions:
+
 LCD1 - a program that utilizes a function (Display.c, implemented with modulo division) to display the first 6 letters of my name on the microcontroller LCD. 
 
 LCD2 - a program that employs UART serial communication commands to allow a user to modify the temperature, voltage level, LEDs, LCD, and outputs of a microcontroller. The chosen temperature and voltage level is shown on the LCD.
