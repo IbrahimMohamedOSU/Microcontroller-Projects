@@ -6,7 +6,7 @@ Project Descriptions:
 
 LCD1 - a program that utilizes a function (Display.c, implemented with modulo division) to display the first 6 letters of my name on the microcontroller LCD. 
 
-LCD2 - a program that employs UART serial communication commands to allow a user to modify the temperature, voltage level, LEDs, LCD, and outputs of a microcontroller. The chosen temperature and voltage level is shown on the LCD.
+LCD2 - a program that employs UART serial communication commands to allow a user to modify the temperature, voltage level, LEDs, LCD, and outputs of a microcontroller. The chosen temperature and voltage levels are shown on the LCD.
 
 LED1 - a program that will illuminate the red and green LEDs on the MSP430FR6989 Launchpad board.
 • The illumination alternates between LEDs at approximately one second intervals.
